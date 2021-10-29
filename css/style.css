@@ -176,6 +176,7 @@ body{
     }
     .nav_links {
         display: flex;
+        flex-direction: row;
         justify-content: center;
     }
    .card{
